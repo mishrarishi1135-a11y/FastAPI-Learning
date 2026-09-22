@@ -1,0 +1,5 @@
+{"P001": {"name":"Ananya sharma","city":"Guwahti","age":28,"gender":"female","height":1.65,"weight":90.0,"bmi":33.06,"verdict":"obese"},
+"P002": {"name":"Ravi mehta","city":"Mumbai","age":35,"gender":"male","height":1.75,"weight":85.0,"bmi":27.76,"verdict":"overweight"},
+"P003":{"name":"sneha","city":"kanpur","age":35,"gender":"female","height":1.55,"weight":75.0,"bmi":17.58,"verdict":"underweight"},
+"P004": {"name":"Arjun verma","city":"Jaipur","age": 40,"gender":"male","height":1.8,"weight":95.0,"bmi":29.32,"verdict":"overweight"},
+"P005": {"name":"neha sinha","city":"Sangrur","age":25,"gender":"female","height":1.45,"weight":75.0,"bmi":31.87,"verdict":"obese"} }
